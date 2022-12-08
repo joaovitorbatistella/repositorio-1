@@ -4,3 +4,5 @@ versão 2
 versão 3
 
 ALTERADO NA BRANCH funcionalidadeNova
+
+teste merge
