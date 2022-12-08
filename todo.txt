@@ -5,4 +5,4 @@ versão 3
 
 ALTERADO NA BRANCH funcionalidadeNova
 
-teste merge
+nova linha
