@@ -2,3 +2,5 @@ versão 1
 versão 2
 
 versão 3
+
+ALTERADO NA BRANCH funcionalidadeNova
